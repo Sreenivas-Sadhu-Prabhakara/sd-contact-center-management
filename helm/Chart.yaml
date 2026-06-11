@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-contact-center-management
+description: "BIAN Service Domain: Contact Center Management (Manage pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - manage
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Contact Center Plan"
+  bian/control-record: "Contact Center Plan Management Plan"
